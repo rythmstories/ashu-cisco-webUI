@@ -1,6 +1,6 @@
 version: '3.8'
 services:
-  ashu-ui-app:
+  gaurav-ui-app:
     image: gaurav-web:app$BUILD_NUMBER
     build: .
     container_name: gauravc1# container name
